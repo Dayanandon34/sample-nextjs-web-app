@@ -1,4 +1,6 @@
 # Sample Next.JS App
+prerequirsetes:
+
 -> launch ubuntu instace
 -> connect ec2
 -> change user to room:  sudo su
@@ -9,7 +11,7 @@
 
 -> clone the repo from github
 -> go to project folder and install npm
-->ru command:  npm install
+->run command:  npm install
 -> run command: npm run build
 -> run command: sudo npm install pm2 -g
 -> verify using npm command it will show output
