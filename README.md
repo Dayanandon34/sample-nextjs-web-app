@@ -1,9 +1,9 @@
 # Sample Next.JS App
-prerequirsetes:
+prerequisites:
 
--> launch ubuntu instace
--> connect ec2
--> change user to room:  sudo su
+-> ubuntu instace
+-> SSH ec2
+-> change user to root:  sudo su
 -> install git if default not installed
 -> install node js20 version
 -> npm 10 version
