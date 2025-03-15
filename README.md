@@ -1,5 +1,5 @@
 # Sample Next.JS App
-prerequisites:
+Prerequisites:
 
 -> ubuntu instace
 -> SSH ec2
