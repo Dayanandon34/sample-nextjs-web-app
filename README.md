@@ -19,4 +19,4 @@ prerequisites:
 pm2 start npm --name nextjs-app -- run start -- --port 3000
 
 
-💻💖☕ by Dayanand 🙏
+💻💖☕ || by Dayanand ||🙏
