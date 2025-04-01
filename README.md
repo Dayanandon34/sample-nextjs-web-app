@@ -1,4 +1,4 @@
-# Sample Next.JS App:
+# Sample Next.JS App: 
 Prerequisites:
 
 -> ubuntu instace
