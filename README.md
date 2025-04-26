@@ -5,7 +5,7 @@ Prerequisites:
 -> SSH ec2 
 -> change user to root:  sudo su
 -> install git if default not installed
--> install node js20 version.
+-> install node js20 version
 -> npm 10 version
 
 # steps"
