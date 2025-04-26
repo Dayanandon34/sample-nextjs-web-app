@@ -9,7 +9,7 @@ Prerequisites:
 -> npm 10 version
 
 # steps"
--> clone the repo from github 
+-> clone the repo from github
 -> go to project folder and install npm
 ->run command:  npm install
 -> run command: npm run build
