@@ -2,7 +2,7 @@
 Prerequisites:
 
 -> ubuntu instace
--> SSH ec2 
+-> SSH ec2
 -> change user to root:  sudo su
 -> install git if default not installed
 -> install node js20 version
